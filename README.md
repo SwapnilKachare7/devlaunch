@@ -122,3 +122,22 @@ Each browser visitor receives a persistent identifier stored in Local Storage.
 **Swapnil Kachare**
 
 GitHub: https://github.com/SwapnilKachare7
+
+
+## 📸 Screenshots
+
+### 1. Control – Simple Onboarding
+![Control Onboarding](./screenshots/control-onboarding.png)
+
+### 2. Treatment – Guided Onboarding
+![Guided Onboarding](./screenshots/guided-onboarding.png)
+
+### 3. Flagsmith Experiment Configuration
+![Flagsmith Experiment](./screenshots/flagsmith-experiment.png)
+
+### 4. Flagsmith Experiment Results
+![Experiment Results](./screenshots/flagsmith-experiment2.png)
+
+### 5. Flagsmith Feature Flag
+![Feature Flag](./screenshots/flagsmith-feature.png)
+
